@@ -20,7 +20,7 @@
 -  기간: 2024.08~2024.11(3M/M)
 
 # 개발 설계
-![transfer](/transfer.png)
+![transfer](project/transfer.png)
 - SQL속 데이터를 Eclipse로 연동 
 
 - 데이터 정보 수정 용이하게 적용
@@ -45,13 +45,13 @@
 
 
 # 데이터 속성 결과
-![customer](/image%20copy.png)
+![customer](project/image%20copy.png/)
 -  custid: 각 고객별 고유 식별 번호
 -  name: 각 고객별 이름
 -  address: 각 고객별 현 실제 거주 주소
 -  phone: 각 고객별 실제 사용 번호
 ---
-![book](/image.png)
+![book](project/image.png)
 -  bookid: 각 도서별 고유 식별 번호
 -  bookname: 각 도서별 제목
 -  publisher: 각 도서의 출판사
@@ -60,19 +60,19 @@
 # 시스템 개발
  도서관 정보 관리를 위한 통합 플랫폼으로, SQL 데이터베이스에 저장된 도서 정보와 고객 정보를 Eclipse 개발 환경에서 연동하여 관리 용이. 사용자는 웹 브라우저를 통해 다양한 작업 수행 가능.
 
- ![find](/find.png)
+ ![find](project/find.png)
 - 추가 기능을 통해 원하는 정보를 쉽게 추가 가능 
 -----
-![check](/check.png)
+![check](project/check.png)
 - 도서 정보에는 도서 고유 번호, 제목, 출판사, 가격 등의 데이터가 포함되어 있어, 사용자가 필요한 정보를 빠르게 확인 가능.
 -----
-![variety](/variety.png)
+![variety](project/variety.png)
 -  사용자는 웹 상에서 도서 관리, 고객 정보 확인 등 다양한 작업을 편리하게 수행 용이.
 
 -----
 # 구현
 - 메인화면
-![finish](/finish.png)
+![finish](project/finish.png)
 - 코드 화면
-![finish](/finish2.png)
+![finish](project/finish2.png)
 
